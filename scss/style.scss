@@ -1,6 +1,10 @@
+
 .master {
     display: grid;
     grid-template-rows: repeat(6,1fr);
+}
+.main {
+    display: flex;
 }
 
 #encabezado {
